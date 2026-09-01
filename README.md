@@ -43,7 +43,7 @@ $$
 $$
 
 $$
-\hat{\Sigma}=252\,\mathrm{Cov}(r_{\text{train}})
+\hat{\Sigma} = 252\,\mathrm{Cov}\left(r_{\mathrm{train}}\right)
 $$
 
 ### 3. Gurobi quadratic model
